@@ -1,0 +1,5 @@
+AWS IAM Practical Demonstration
+
+YouTube Video Link:
+https://youtu.be/qBADQWYNlYI?si=aTZS0G-tZlC8mBAt
+Topic: Create IAM Groups and Assign Users and Permissions
